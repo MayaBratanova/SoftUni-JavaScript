@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89457bf0-d68b-45c5-b1f2-54c6c5099624" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="messages.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10.Exams/10Dec2016/messages.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="39" selection-start-line="6" selection-start-column="3" selection-end-line="7" selection-end-column="39" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#section#4;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#5;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#6;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#7;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#8;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="solution.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/10.Exams/8May2018/solution.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="219" column="32" selection-start-line="219" selection-start-column="32" selection-end-line="219" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10.Exams/8May2018/static/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="335" column="13" selection-start-line="335" selection-start-column="8" selection-end-line="335" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="book-library.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5.Single Page Application/scripts/book-library.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="149" column="10" selection-start-line="141" selection-start-column="7" selection-end-line="149" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>form</find>
+      <find>loading</find>
+      <find>listbook</find>
+      <find>logge</find>
+      <find>logout</find>
+      <find>prevent</find>
+      <find>showUserHomeView</find>
+      <find>disca</find>
+      <find>loadboo</find>
+      <find>public</find>
+      <find>loadbookfo</find>
+      <find>href</find>
+      <find>console.</find>
+      <find>add-flight</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/2.AJAX and jQuery AJAX/1.HXR.html" />
+        <option value="$PROJECT_DIR$/2.AJAX and jQuery AJAX/1.BusStops.html" />
+        <option value="$PROJECT_DIR$/2.AJAX and jQuery AJAX/2.Bus Schedule.html" />
+        <option value="$PROJECT_DIR$/2.AJAX and jQuery AJAX/3.Messenger.html" />
+        <option value="$PROJECT_DIR$/2.AJAX and jQuery AJAX/mes.js" />
+        <option value="$PROJECT_DIR$/2.AJAX and jQuery AJAX/solution.js" />
+        <option value="$PROJECT_DIR$/2.AJAX and jQuery AJAX/4.Phonebook.js" />
+        <option value="$PROJECT_DIR$/2.AJAX and jQuery AJAX/4.Phonebook.html" />
+        <option value="$PROJECT_DIR$/2.AJAX and jQuery AJAX/phonebook.js" />
+        <option value="$PROJECT_DIR$/3.Async Programming and Promises/1.Github Commits.html" />
+        <option value="$PROJECT_DIR$/3.Async Programming and Promises/2.Blog.html" />
+        <option value="$PROJECT_DIR$/4.Asynchronous Programming and Promises/1.Forecaster.html" />
+        <option value="$PROJECT_DIR$/4.Asynchronous Programming and Promises/2.Fisher game.html" />
+        <option value="$PROJECT_DIR$/3.Async Programming and Promises/solution.js" />
+        <option value="$PROJECT_DIR$/5.Single Page Apps with AJAX, REST and Kinvey - Ex/1.Prodavachnik.html" />
+        <option value="$PROJECT_DIR$/5.Single Page Apps with AJAX, REST and Kinvey - Ex/ex.js" />
+        <option value="$PROJECT_DIR$/6.Single Page Apps with AJAX, REST and Kinvey - Ex/scripts/ex.js" />
+        <option value="$PROJECT_DIR$/6.Single Page Apps with AJAX, REST and Kinvey - Ex/index.html" />
+        <option value="$PROJECT_DIR$/6.Single Page Apps with AJAX, REST and Kinvey - Ex/scripts/attachEvents.js" />
+        <option value="$PROJECT_DIR$/4.Asynchronous Programming and Promises/forecaster.js" />
+        <option value="$PROJECT_DIR$/4.Asynchronous Programming and Promises/catch.js" />
+        <option value="$PROJECT_DIR$/6/Prodavachnik - Skeleton/scripts/prodavachnik.js" />
+        <option value="$PROJECT_DIR$/7.Templating/templates/contacts.hbs" />
+        <option value="$PROJECT_DIR$/7.Templating/templates/contactsList.hbs" />
+        <option value="$PROJECT_DIR$/7.Templating/templates/partials/personalInfo.hbs" />
+        <option value="$PROJECT_DIR$/7.Templating/templates/contact.hbs" />
+        <option value="$PROJECT_DIR$/7.Templating/templates/partials/personalContacts.hbs" />
+        <option value="$PROJECT_DIR$/7.Templating/templates/details.hbs" />
+        <option value="$PROJECT_DIR$/7.Templating/index.html" />
+        <option value="$PROJECT_DIR$/7.Templating/app.js" />
+        <option value="$PROJECT_DIR$/8. Templating - Exercise/1. List Towns.html" />
+        <option value="$PROJECT_DIR$/8. Templating - Exercise/towns.js" />
+        <option value="$PROJECT_DIR$/8. Templating - Exercise/2. HTTP Status Cats/cats.html" />
+        <option value="$PROJECT_DIR$/8. Templating - Exercise/2. HTTP Status Cats/template.js" />
+        <option value="$PROJECT_DIR$/9. Routing and Architecture/index.html" />
+        <option value="$PROJECT_DIR$/9. Routing and Architecture/contactBook/index.html" />
+        <option value="$PROJECT_DIR$/10.Exams/8May2018/app.js" />
+        <option value="$PROJECT_DIR$/6.Single Page Application - Exercise/Prodavachnik - Skeleton/scripts/prodavachnik.js" />
+        <option value="$PROJECT_DIR$/10.Exams/10Dec2016/app.js" />
+        <option value="$PROJECT_DIR$/5.Single Page Application/scripts/book-library.js" />
+        <option value="$PROJECT_DIR$/10.Exams/10Dec2016/messages.html" />
+        <option value="$PROJECT_DIR$/10.Exams/ex/messages.js" />
+        <option value="$PROJECT_DIR$/10.Exams/10Dec2016/messages.js" />
+        <option value="$PROJECT_DIR$/10.Exams/22Dec2016/Skeleton/market.html" />
+        <option value="$PROJECT_DIR$/10.Exams/7Sept2017/Chirper-Resources/skeleton.html" />
+        <option value="$PROJECT_DIR$/10.Exams/7Sept2017/Chirper-Resources/solution.js" />
+        <option value="$PROJECT_DIR$/10.Exams/20August2017/index.html" />
+        <option value="$PROJECT_DIR$/10.Exams/20August2017/solution.js" />
+        <option value="$PROJECT_DIR$/10.Exams/22Dec2016/Skeleton/market.js" />
+        <option value="$PROJECT_DIR$/10.Exams/8May2018/index.html" />
+        <option value="$PROJECT_DIR$/10.Exams/8May2018/solution.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="833" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JS Applications" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Applications" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="9.8.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/exam" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjects\JS Applications\10.Exams\8May2018" />
+      <recent name="C:\Users\user\WebstormProjects\JS Applications\10.Exams\20August2017" />
+      <recent name="C:\Users\user\WebstormProjects\JS Applications\10.Exams\7Sept2017\Chirper-Resources" />
+      <recent name="C:\Users\user\WebstormProjects\JS Applications\10.Exams\22Dec2016\Skeleton" />
+      <recent name="C:\Users\user\WebstormProjects\JS Applications\6.Single Page Apps with AJAX, REST and Kinvey - Ex" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjects\JS Applications\8. Templating - Exercise\1.List Towns" />
+      <recent name="C:\Users\user\WebstormProjects\JS Applications\6" />
+      <recent name="C:\Users\user\WebstormProjects\JS Applications\6.Single Page Apps with AJAX, REST and Kinvey - Ex" />
+      <recent name="C:\Users\user\WebstormProjects\JS Applications\5.Single Page Application" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS Applications/7.Templating/index.html" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\user\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89457bf0-d68b-45c5-b1f2-54c6c5099624" name="Default" comment="" />
+      <created>1531813706347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531813706347</updated>
+      <workItem from="1531813709213" duration="598000" />
+      <workItem from="1531921272724" duration="22930000" />
+      <workItem from="1532506967998" duration="24220000" />
+      <workItem from="1532616812249" duration="16827000" />
+      <workItem from="1532681222017" duration="29238000" />
+      <workItem from="1532865300628" duration="108919000" />
+      <workItem from="1533539549621" duration="35799000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="238531000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17708333" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50074404" side_tool="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.09477124" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49925596" visible="true" weight="0.33333334" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/2.AJAX and jQuery AJAX/2.Bus Schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="60" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.Templating/templates/partials/personalInfo.hbs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.Templating/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.Templating/templates/contact.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.Templating/templates/partials/personalContacts.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.Templating/templates/details.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.Templating/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8. Templating - Exercise/1.List Towns/towns.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8. Templating - Exercise/2. HTTP Status Cats/images/cat100.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8. Templating - Exercise/2. HTTP Status Cats/template.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8. Templating - Exercise/2. HTTP Status Cats/catSeeder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8. Templating - Exercise/2. HTTP Status Cats/cats.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="138" column="13" selection-start-line="138" selection-start-column="13" selection-end-line="138" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9. Routing and Architecture/index.html" />
+    <entry file="file://$PROJECT_DIR$/9. Routing and Architecture/contactBook/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="13" column="24" selection-start-line="11" selection-start-column="19" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9. Routing and Architecture/contactBook/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-969" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.Exams/8May2018/static/img/plane.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.Exams/8May2018/static/img/pencil.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.Exams/8May2018/static/img/cart.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8. Templating - Exercise/1.List Towns/1. List Towns.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="36" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.Exams/8May2018/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="81" column="13" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.Templating/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.Exams/ex/messages.css" />
+    <entry file="file://$PROJECT_DIR$/6.Single Page Application - Exercise/Prodavachnik - Skeleton/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="55" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.Exams/ex/messages.html" />
+    <entry file="file://$PROJECT_DIR$/6.Single Page Application - Exercise/Prodavachnik - Skeleton/scripts/prodavachnik.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-952">
+          <caret line="12" column="48" lean-forward="true" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.Single Page Application/book-library.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="45" />
+          <folding>
+            <element signature="n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#6;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#7;n#main#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.Exams/ex/messages.js" />
+    <entry file="file://$PROJECT_DIR$/10.Exams/home/Prodavachnik - Skeleton/index.html" />
+    <entry file="file://$PROJECT_DIR$/10.Exams/home/index.html" />
+    <entry file="file://$PROJECT_DIR$/10.Exams/22Dec2016/Skeleton/jquery-3.1.1.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.Exams/10Dec2016/seed-json/messages.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-986">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.Exams/7Sept2017/Chirper-Resources/jquery-3.1.1.min.js" />
+    <entry file="file://$PROJECT_DIR$/10.Exams/10Dec2016/seed-json/user.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.Exams/7Sept2017/Chirper-Resources/seed-database/users.json" />
+    <entry file="file://$PROJECT_DIR$/10.Exams/7Sept2017/Chirper-Resources/skeleton.html" />
+    <entry file="file://$PROJECT_DIR$/10.Exams/7Sept2017/Chirper-Resources/solution.js" />
+    <entry file="file://$PROJECT_DIR$/10.Exams/20August2017/import-json/users.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.Exams/20August2017/import-json/posts.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.Exams/20August2017/import-json/comments.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.Exams/20August2017/jquery-3.1.1.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.Exams/20August2017/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="32" />
+          <folding>
+            <element signature="n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.Exams/20August2017/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.Exams/8May2018/jquery-3.1.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="1" column="912" selection-start-line="1" selection-start-column="912" selection-end-line="1" selection-end-column="912" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.Exams/10Dec2016/messages.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="117" column="28" lean-forward="true" selection-end-line="287" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.Exams/22Dec2016/Skeleton/market.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1360">
+          <caret line="100" column="5" lean-forward="true" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.Exams/22Dec2016/Skeleton/market.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="17" column="58" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="58" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#4;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.Exams/8May2018/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="335" column="13" selection-start-line="335" selection-start-column="8" selection-end-line="335" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.Exams/10Dec2016/messages.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="39" selection-start-line="6" selection-start-column="3" selection-end-line="7" selection-end-column="39" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#4;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#5;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#6;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#7;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#8;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.Single Page Application/scripts/book-library.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="149" column="10" selection-start-line="141" selection-start-column="7" selection-end-line="149" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.Exams/8May2018/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-271">
+          <caret line="53" column="17" lean-forward="true" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+          <folding>
+            <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.Exams/8May2018/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="219" column="32" selection-start-line="219" selection-start-column="32" selection-end-line="219" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
