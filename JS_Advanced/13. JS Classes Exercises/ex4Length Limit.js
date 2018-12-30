@@ -1,8 +1,9 @@
 class Stringer {
     constructor(innerString, innerLength){
-        this.innerString = innerString
+        this.innerString = innerString;
         this.innerLength = innerLength;
     }
+
     get innerLength() {
         return this._innerLength;
     }
